@@ -1,4 +1,5 @@
-- 👋## Hi there, I am Dr. Manoj Kumar D P!<img height="60" width="60" src="./assets/hi.gif" />
+- 👋## Hi there, I am <b>Dr. Manoj Kumar D P</b>!<img height="60" width="60" src="./assets/hi.gif" />
+
 <i>I am a self taught <b>Python Programmer, Machiner Learner</b>.</i>
 <i>
   
@@ -19,7 +20,7 @@
 
 ## Github Stats
 <a href="https://github.com/dpmanoj">
-  <img align="center" alt="Dr. Manoj Kumar Github Stats" src="https://github-readme-stats.vercel.app/api?username=dpmanoj&show_icons=true&theme=tokyonight">
+  <img align="center" alt="Dr. Manoj Kumar D P Github Stats" src="https://github-readme-stats.vercel.app/api?username=dpmanoj&show_icons=true&theme=tokyonight">
 </a>
 </div>
 
